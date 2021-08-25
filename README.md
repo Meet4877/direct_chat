@@ -9,4 +9,4 @@
 - Mail: <a href="shingalameet4877@gmail.com">shingalameet4877@gmail.com</a>
 
 ### Screenshots
-<img width=940px src="saveeee.png" /><img width=940px src="save.png" />
+<img width=740px src="saveeee.png" /><img width=740px src="save.png" />
